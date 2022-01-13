@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-//the tacos are in the taco truck lets have lunch!!!!!:*}
-=======
-
-// This is Ryan's change!! Another change
-
->>>>>>> faa7b5a761a6c6be7a1f580a33c4559e2b88eeee
+//the tacos are in the taco truck lets have lunch!!!!!:*} come on lets go!!!!
 import { redirect, signInUser, signUpUser } from './fetch-utils.js';
 
 const signInForm = document.querySelector('#signIn-form');
