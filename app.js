@@ -1,4 +1,4 @@
-//this is ari screwing it up wassup
+//this is ari screwing it up wassup!
 
 import { redirect, signInUser, signUpUser } from './fetch-utils.js';
 
