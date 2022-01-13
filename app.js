@@ -1,4 +1,4 @@
-import { redirect, signInUser, signUpUser } from './fetch-utils.js';
+import { redirect, signInUser, signUpUser } from '../fetch-utils.js';
 
 const signInForm = document.querySelector('#signIn-form');
 const signUpForm = document.querySelector('#signUp-form');
