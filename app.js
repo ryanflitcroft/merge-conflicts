@@ -1,4 +1,4 @@
-//the tacos are in the taco truck lets have lunch!!!!!:*} come on lets go!!!!
+//the tacos are in the taco truck lets have lunch!!!!!:*} come on lets go!!!! No let's go get some ice cream!!!!
 import { redirect, signInUser, signUpUser } from './fetch-utils.js';
 
 const signInForm = document.querySelector('#signIn-form');
